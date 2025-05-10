@@ -1,0 +1,176 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.body {
+    font-family: "Young Serif", serif;
+
+}
+
+
+body {
+    padding: 50px;
+
+}
+
+.section--one {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section--one__name {
+    font-size: 60px;
+}
+
+.section--one__role {
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.section--one__contect {
+    text-decoration: none;
+    display: inline-block;
+    background-color: orangered;
+    color: white;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+
+}
+
+.section--one,
+.section--two,
+.section--three,
+.section--four,
+.section--five {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.sectionn--two__title {
+    margin-bottom: 10px;
+}
+
+.section--two__desc {
+    margin-top: 10px;
+}
+
+.section--three li,
+.section--four li {
+    list-style: none;
+}
+
+.section--three__desc li,
+.section--four__desc li {
+    margin-top: 20px;
+}
+
+.section--five__desc {
+    margin-bottom: 20px;
+
+
+}
+
+.section--five {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.section--five__desc a {
+    color: skyblue;
+
+}
+
+.section--three {
+    background-color: blue;
+    color: black;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    vertical-align: top;
+    height: 200px;
+}
+
+.section--four {
+    background-color: orangered;
+    color: black;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 10px;
+    vertical-align: top;
+    height: 200px;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.section-one__name {
+    text-decoration: none;
+    font-size: 60px;
+}
+
+.section-one__desc {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section-one__contect {
+    text-decoration: none;
+    font-size: 20px;
+    background-color: orangered;
+    color: white;
+    padding: 5px;
+}
+
+.section-three {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+    padding: 15px;
+
+}
+
+.section-three__link {
+    margin-bottom: 20px;
+}
+
+.section-two__input {
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+
+
+}
+
+.section-two__textarea,
+.section-two__input,
+.section-two__button {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+
+.section-two__button {
+
+    border: none;
+    background-color: orangered;
+    color: black;
+
+}
